@@ -1,1 +1,1 @@
-# sea-animation-2.0
+# ship-animation
